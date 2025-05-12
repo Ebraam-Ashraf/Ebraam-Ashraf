@@ -21,13 +21,9 @@
 </div>
 
 <!--Intro start-->
-- <img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=15/> Software Engineering Intern at Microsoft
-
-- 🏎 Former Path Planning Member at <a href="https://www.linkedin.com/company/cairo-university-racing-team-formula-student/mycompany">Cairo University Racing Team - Formula Student.</a>
-
-- ☁️ Interested in Problem solving, Backend, Mobile development, Applied Science and Autonomous Driving 💻
-
 - 💻 Computer Engineering Student at <a href="http://eng.cu.edu.eg/">Faculty of Engineering, Cairo University.</a>
+
+- ☁️ Interested in Problem solving, Backenddevelopment, Applied Science and Autonomous Driving 💻
 <!--Intro end-->
 
 
@@ -56,10 +52,10 @@
 
 <!--icons and links-->
 <p align="left">
-<a href="https://www.linkedin.com/in/bishoy-wadea-27b016250/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:bishoyw.fathy@gmail.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" height="50" width="50" /></a>
-<a href="https://codeforces.com/profile/-NoName" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="codeforces" height="50" width="50" /></a>
-<a href="https://leetcode.com/BishoyWadae/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" height="50" width="50" /></a>
+<a href="[https://www.linkedin.com/in/ebraam-ashraf-70234b293/]" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:beroashraf333@gmail.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/bero_2589" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="codeforces" height="50" width="50" /></a>
+<a href="https://leetcode.com/u/E9Bbgtktrm/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" height="50" width="50" /></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
