@@ -15,11 +15,6 @@
        alt="snake" /></a>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <span align="left"> <img src="https://komarev.com/ghpvc/?username=Bishoywadea&label=Profile%20views&color=0e75b6&style=flat" alt="bishoy" /> </span>
-  </ul>
-</div>
 
 <!--Intro start-->
 - 💻 Computer Engineering Student at <a href="http://eng.cu.edu.eg/">Faculty of Engineering, Cairo University.</a>
