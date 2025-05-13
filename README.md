@@ -48,7 +48,7 @@
 
 <!--icons and links-->
 <p align="left">
-<a href="[https://www.linkedin.com/in/ebraam-ashraf-70234b293/]" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ebraam-ashraf-70234b293/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="50" width="50" /></a>
 <a href="mailto:beroashraf333@gmail.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" height="50" width="50" /></a>
 <a href="https://codeforces.com/profile/bero_2589" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="codeforces" height="50" width="50" /></a>
 <a href="https://leetcode.com/u/E9Bbgtktrm/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode" height="50" width="50" /></a>
