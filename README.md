@@ -19,7 +19,7 @@
 <!--Intro start-->
 - 💻 Computer Engineering Student at <a href="http://eng.cu.edu.eg/">Faculty of Engineering, Cairo University.</a>
 
-- ☁️ Interested in Problem solving, Backenddevelopment, Applied Science and Autonomous Driving 💻
+- ☁️ Interested in Problem solving, Backend development, Applied Science and Autonomous Driving 💻
 <!--Intro end-->
 
 
