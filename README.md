@@ -32,7 +32,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,css,html,nodejs,dotnet,linux,bash,ros,git,github,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,css,html,nodejs,dotnet,linux,bash,ros,git,github,&perline=14" />
   </a>
 </p>
 
